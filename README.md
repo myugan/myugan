@@ -1,7 +1,29 @@
 ### Hi there 👋
 
-- :man_technologist: I'm working as Sr.DevSecOps Engineer at [Practical DevSecOps](https://www.practical-devsecops.com/)
-- 🔭 I've interest on Dev{Sec}Ops & Cloud-Native Security.
-- 📫 Reach out on: 
-  - **Twitter**  : [@jerukitumanis](https://twitter.com/jerukitumanis)
-  - **Telegram** : [@jerukitumanis](https://t.me/jerukitumanis)
+I'm **Muhammad Yuga Nugraha**, an experienced DevSecOps engineer focused on Cloud and Cloud Native Security
+
+## 🚀 About Me
+- :man_technologist: **Sr. DevSecOps Engineer** at [Practical DevSecOps](https://www.practical-devsecops.com/)
+- 📚 **Certification Co-Author**: 
+  - Certified Container Security Expert (CCSE)
+  - Certified Cloud Native Security Expert (CCNSE)
+  - Certified Software Supply Chain Expert (CSSE)
+- 🎯 **Certifications**:
+  - CDP (Certified DevSecOps Professional)
+  - CCSKv4 (Certificate of Cloud Security Knowledge)
+  - Kubestronaut holder (KCNA + KCSA + CKA + CKAD + CKS) ☸
+
+## 🎤 Speaking
+I contribute to the community as a speaker at events such as:
+
+- **PyCon APAC 2024** - Python at Scale: Building a Node Autoscaling Engine with a Distributed System
+- **AWS Community Day Indonesia 2024** - AWS Security 101: Let’s Simulate and Learn!
+- **KCD (Kubernetes Community Days) Indonesia 2024** - Letting Hackers Into Your Kubernetes Cluster
+- **PyCon SG 2025** - Firecracker Made Easy with Python
+
+## 📫 Let's Connect
+- **Twitter**: [@myugan](https://twitter.com/myugan)
+- **Telegram**: [@myugan](https://t.me/myugan)
+
+---
+*DevOps by design, security at heart* 🔐
