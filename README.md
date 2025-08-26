@@ -17,9 +17,11 @@ I'm **Muhammad Yuga Nugraha**, an experienced DevSecOps engineer focused on Clou
 I contribute to the community as a speaker at events such as:
 
 - **PyCon APAC 2024** - Python at Scale: Building a Node Autoscaling Engine with a Distributed System
-- **AWS Community Day Indonesia 2024** - AWS Security 101: Let’s Simulate and Learn!
+- **AWS Community Day ID 2024** - AWS Security 101: Let’s Simulate and Learn!
 - **KCD (Kubernetes Community Days) Indonesia 2024** - Letting Hackers Into Your Kubernetes Cluster
 - **PyCon SG 2025** - Firecracker Made Easy with Python
+- **OpenInfra Days ID 2025** - Are Containers Dying? Rethinking Isolation with MicroVMs
+- **Cloud Village @ DEFCON 33** - TencentGoat: An Intentionally Vulnerable Tencent Cloud Environment
 
 ## 📫 Let's Connect
 - **Twitter**: [@myugan](https://twitter.com/myugan)
