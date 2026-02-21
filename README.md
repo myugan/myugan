@@ -3,7 +3,6 @@
 I'm **Muhammad Yuga Nugraha**, an experienced DevSecOps engineer focused on Cloud and Cloud Native Security.
 
 ## 🚀 About Me
-- :man_technologist: **Sr. DevSecOps Engineer** at [Practical DevSecOps](https://www.practical-devsecops.com/)
 - 📚 **Certification Co-Author**:
   - Certified DevSecOps Professional (CDP)
   - Certified Container Security Expert (CCSE)
